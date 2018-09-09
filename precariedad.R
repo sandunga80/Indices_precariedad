@@ -1,4 +1,5 @@
 
+OJO: si sale algún error es porque falta instalar los paquetes. 
 
 install.packages("")
 
