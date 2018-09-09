@@ -1,4 +1,9 @@
 
+Cómo actualizar R:
+https://rpubs.com/palominoM/tips
+
+
+
 OJO: si sale algún error es porque falta instalar los paquetes. 
 
 install.packages("")
